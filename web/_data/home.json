@@ -1,0 +1,6 @@
+{
+  "title": "Hola, mi nombre es Daniel Miguel Mesa",
+  "image": "/static/img/fern-in-hand.jpeg",
+  "subtitle": "Esta es mi página estática creada con Eleventy y alojada en Surge",
+  "image_alt": "Foto prueba"
+}
